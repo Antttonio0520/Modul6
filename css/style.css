@@ -311,10 +311,10 @@ header {
    fill: var(--primary-brand);
 }
 .form-field:focus-within > .input-form{
-   outline: 2px solid var(--primary-brand);
+   border: 1px solid var(--primary-brand);
 }
 .form-field:focus-within > .comment-form{
-   outline: 2px solid var(--primary-brand);
+   border: 1px solid var(--primary-brand);
 }
 .form-field-policy{
    margin-bottom: 24px;
